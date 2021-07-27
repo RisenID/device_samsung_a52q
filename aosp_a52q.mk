@@ -35,6 +35,7 @@ TARGET_SCREEN_WIDTH := 1080
 TARGET_BOOT_ANIMATION_RES := 1080
 
 ## Device identifier. This must come after all inclusions
+CUSTOM_DEVICE := a52qnsxx
 PRODUCT_NAME := aosp_a52q
 PRODUCT_DEVICE := a52q
 PRODUCT_BRAND := samsung
